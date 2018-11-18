@@ -36,5 +36,5 @@ substitutions:
   _PROJECT: golang-gin
   _REPO: gcr.io
   _ZONE: us-central1-a
-  _CLUSTER: standard-cluster-1
+  _CLUSTER: k8s-workshop
   _NAMESPACE: default
